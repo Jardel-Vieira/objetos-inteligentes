@@ -65,8 +65,6 @@ Este projeto utiliza o Blynk para monitorar temperatura, umidade e nível de som
 **Links Úteis:**
 
 * Blynk: [https://blynk.io/](https://blynk.io/)
-* Biblioteca Blynk para Arduino: [URL inválido removido]
-* Sensor DHT11: [URL inválido removido]
 * Sensor de Som: [https://www.adafruit.com/product/268](https://www.adafruit.com/product/268)
 * Sensor PIR: [https://www.adafruit.com/product/266](https://www.adafruit.com/product/266)
 
